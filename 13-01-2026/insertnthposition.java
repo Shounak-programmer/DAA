@@ -54,3 +54,4 @@ public class insertnthposition {
         sc.close();
     }
 }
+//Time Complexity: O(n), Space Complexity: O(n)
