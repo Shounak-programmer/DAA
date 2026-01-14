@@ -1,0 +1,6 @@
+1. Reverse an "n" digit number
+2. Reverse a singly linkedlist
+3. Delete the n^th element from an array of m nos.  n<=m
+4. Insert an element at nth position in an array
+5. Find the no of words in a given sentence
+// write the code without using inbuilt functions, and then calculate the time complexity using frequency count method
