@@ -1,6 +1,5 @@
 import java.util.*;
 public class reverse_a_no {
-    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String args []) {
         System.out.println("Enter a Number");
         Scanner sc = new Scanner(System.in); 
